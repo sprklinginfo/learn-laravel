@@ -7,6 +7,6 @@
 
 
 
-## Models
+## Database
 
 * [Ordering database queries by relationship columns in Laravel](https://reinink.ca/articles/ordering-database-queries-by-relationship-columns-in-laravel)
